@@ -92,6 +92,10 @@ Entries with unclosed timers (no end time) are flagged with a warning and exclud
 - **Date detection:** Daily notes must have a date that Dataview can detect — typically an ISO date in the filename (e.g. `2026-06-18`). Notes without a detectable date are silently skipped.
 - **Entry naming:** For entries to appear in the report, your Timekeep entry names must contain the `target-client` value. Name your timekeep entries consistently with the client's name.
 
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for release history.
+
 ## Security
 
 Please do not report security vulnerabilities through public issues. See [SECURITY.md](SECURITY.md) for the responsible disclosure process.
