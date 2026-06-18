@@ -1,4 +1,6 @@
-# Obsidian Timesheet Report (Dataview + Timekeep)
+![Timsheet by Modrich Labs](assets/timesheet-readme-banner-1280x360.png)
+
+# Timesheet by Modrich Labs
 
 A [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) JS template that aggregates time entries from the [Timekeep](https://github.com/jacobtread/obsidian-timekeep) plugin into a per-client timesheet report, rendered as a table directly inside your Obsidian vault.
 
